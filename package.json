@@ -1,0 +1,27 @@
+{
+  "name": "oauth2_playground",
+  "version": "0.0.0",
+  "description": "OAuth 2.0 Playground ===================================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clcuevas/oauth2_playground.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clcuevas/oauth2_playground/issues"
+  },
+  "homepage": "https://github.com/clcuevas/oauth2_playground#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "mongoose": "4.5.1",
+    "passport": "0.3.2",
+    "passport-http": "0.3.0"
+  }
+}
